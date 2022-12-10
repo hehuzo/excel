@@ -1,0 +1,7 @@
+C:\Users\Zsombi\source\repos\WinFormsAppexcel\WinFormsAppexcel\obj\Debug\net6.0-windows\WinFormsAppexcel.csproj.AssemblyReference.cache
+C:\Users\Zsombi\source\repos\WinFormsAppexcel\WinFormsAppexcel\obj\Debug\net6.0-windows\WinFormsAppexcel.Form1.resources
+C:\Users\Zsombi\source\repos\WinFormsAppexcel\WinFormsAppexcel\obj\Debug\net6.0-windows\WinFormsAppexcel.csproj.GenerateResource.cache
+C:\Users\Zsombi\source\repos\WinFormsAppexcel\WinFormsAppexcel\obj\Debug\net6.0-windows\WinFormsAppexcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zsombi\source\repos\WinFormsAppexcel\WinFormsAppexcel\obj\Debug\net6.0-windows\WinFormsAppexcel.AssemblyInfoInputs.cache
+C:\Users\Zsombi\source\repos\WinFormsAppexcel\WinFormsAppexcel\obj\Debug\net6.0-windows\WinFormsAppexcel.AssemblyInfo.cs
+C:\Users\Zsombi\source\repos\WinFormsAppexcel\WinFormsAppexcel\obj\Debug\net6.0-windows\WinFormsAppexcel.csproj.CoreCompileInputs.cache
